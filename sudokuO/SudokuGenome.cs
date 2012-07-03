@@ -13,7 +13,7 @@ namespace Sudoku
 
 		public int this [int index1, int index2]
 		{
-			get
+			get 
 			{
 				return TheArray[index1, index2];
 			}

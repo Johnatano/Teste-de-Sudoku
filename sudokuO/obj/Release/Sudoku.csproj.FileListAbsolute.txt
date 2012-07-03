@@ -5,3 +5,8 @@ C:\Users\Johnatan\Desktop\petronio\testes\Sudoku_1Comgrafica\obj\Release\Sudoku.
 C:\Users\Johnatan\Desktop\petronio\testes\Sudoku_1Comgrafica\obj\Release\GenerateResource-ResGen.read.1.tlog
 C:\Users\Johnatan\Desktop\petronio\testes\Sudoku_1Comgrafica\obj\Release\GenerateResource-ResGen.write.1.tlog
 C:\Users\Johnatan\Desktop\sudokuO\obj\Release\Sudoku.exe
+C:\Users\Johnatan\Desktop\sudokuO\bin\Release\Sudoku.exe
+C:\Users\Johnatan\Desktop\sudokuO\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Johnatan\Desktop\sudokuO\obj\Release\Sudoku.Form1.resources
+C:\Users\Johnatan\Desktop\sudokuO\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\Users\Johnatan\Desktop\sudokuO\obj\Release\GenerateResource-ResGen.write.1.tlog
